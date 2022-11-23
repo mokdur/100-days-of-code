@@ -1,5 +1,16 @@
 # I've joined the #100DaysOfCode Challenge
 
+## More info about the challenge at the end of the document ! 
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contents
 
 * [Rules](rules.md)
